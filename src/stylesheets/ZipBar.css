@@ -1,0 +1,17 @@
+.World {
+    background-image: url("https://images.unsplash.com/photo-1538980124103-c0fb4fd75e66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=851&q=80");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Martel Sans', sans-serif;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+input {
+    border: none;
+}

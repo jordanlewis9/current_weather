@@ -1,0 +1,33 @@
+ul {
+  list-style: none;
+  margin: 0;
+  height: 100%;
+  width: auto;
+}
+
+.navbar {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: auto;
+  height: 8%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+}
+
+li {
+  height: 100%;
+  display: block;
+  padding: 10px 0;
+  height: 100%;
+  padding-top: 17px;
+  cursor: pointer;
+  color: white;
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 600;
+  width: 45px;
+}
+
+li:hover {
+  color: white;
+}
