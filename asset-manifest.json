@@ -8,6 +8,6 @@
   "runtime~main.js.map": "/current_weather/static/js/runtime~main.3ef5e754.js.map",
   "static/css/main.21cf7db2.chunk.css.map": "/current_weather/static/css/main.21cf7db2.chunk.css.map",
   "index.html": "/current_weather/index.html",
-  "precache-manifest.07979d8d16ded898a0f17ce9e7f03121.js": "/current_weather/precache-manifest.07979d8d16ded898a0f17ce9e7f03121.js",
+  "precache-manifest.b6e0738a4e3584dec3d698eaf25ec348.js": "/current_weather/precache-manifest.b6e0738a4e3584dec3d698eaf25ec348.js",
   "service-worker.js": "/current_weather/service-worker.js"
 }
