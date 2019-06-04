@@ -23,7 +23,6 @@ class App extends React.Component {
       city: response.data.name,
       type: response.data.weather[0].main
     });
-    console.log(response);
   };
 
   renderContent() {

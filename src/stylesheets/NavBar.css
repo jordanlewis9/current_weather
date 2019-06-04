@@ -8,7 +8,7 @@ ul {
 .navbar {
   background-color: rgba(0, 0, 0, 0.7);
   padding: auto;
-  height: 8%;
+  height: 3rem;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -18,9 +18,8 @@ ul {
 li {
   height: 100%;
   display: block;
-  padding: 10px 0;
-  height: 100%;
-  padding-top: 17px;
+  margin: auto 0;
+  padding-top: 0.85rem;
   cursor: pointer;
   color: white;
   font-family: "Martel Sans", sans-serif;
